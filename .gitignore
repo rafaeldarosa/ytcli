@@ -21,6 +21,9 @@
 go.work
 go.work.sum
 
+# Remove personal token
+token.json
+
 # env file
 .env
 
